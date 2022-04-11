@@ -18,7 +18,7 @@ and run the resize.sh
 bash resize.sh mynew-app-icon.png
 
 
-![akocarsapp.com](image.png)
+[![akocarsapp.com](image.png)](https://akocarsapp.com/?utm_source=github&utm_campaign=icon-resizer)
 
 ```
 git clone hhttps://github.com/lszyba1/resize-reactnative-launcher-icon.git resizer
