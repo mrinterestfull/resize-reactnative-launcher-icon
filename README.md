@@ -3,11 +3,16 @@
 resize-reactnative-launcher-icon was written so I could replace or add icon in my react native project. It creates both android and ios images. Some insights from [me](http://wwwhww.news/u/cwSNkeLNXf).
 
 Please install imagemagick
-
+```
+#On Debian Linux 
 sudo apt install imagemagick
-
-You cn check if installed by running 
+#On Mac 
+brew install imagemagick
+```
+You can check if installed correctly by running 
+```
 convert --version
+```
 
 then
 
@@ -15,8 +20,9 @@ clone this repo.
 
 and run the resize.sh
 
+```
 bash resize.sh mynew-app-icon.png
-
+```
 
 [![akocarsapp.com](image.png)](https://akocarsapp.com/?utm_source=github&utm_campaign=icon-resizer)
 
